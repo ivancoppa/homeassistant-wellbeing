@@ -47,7 +47,7 @@ class Model(str, Enum):
     AX7 = "AX7"
     AX9 = "AX9"
     PUREi9 = "PUREi9"
-
+    HYGENIC600 = "700series"
 
 class WorkMode(str, Enum):
     OFF = "PowerOff"
